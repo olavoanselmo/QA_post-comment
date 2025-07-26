@@ -1,4 +1,4 @@
-# Post Comment React App
+# Post Comment React App (atividade do curso LumeStack - Quality Assurance)
 
 Este repositório contém um aplicativo React simples de comentário de post.
 
